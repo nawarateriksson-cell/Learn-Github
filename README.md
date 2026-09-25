@@ -1,8 +1,6 @@
 # Learn-Github
 UX designer
-/* Inspired by twitter.com/marina_uiux */
-
-.button {
+<div>.button {
   font-size: 17px;
   border-radius: 12px;
   background: linear-gradient(180deg, rgb(56, 56, 56) 0%, rgb(36, 36, 36) 66%, rgb(41, 41, 41) 100%);
